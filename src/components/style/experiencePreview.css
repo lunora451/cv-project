@@ -1,0 +1,25 @@
+.experiencePreview {
+  display: flex;
+}
+
+.leftContentExperience {
+  display: flex;
+  width: 100px;
+}
+
+.rightContentExperience {
+  flex: 1;
+}
+
+.positionExperience {
+  margin-bottom: 8px;
+}
+
+.groupCompany {
+  display: flex;
+}
+
+.fromExperience,
+.toExperience {
+  font-weight: bold;
+}

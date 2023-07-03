@@ -1,0 +1,13 @@
+.header {
+  height: 120px;
+  background-color: blueviolet;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.header > h1 {
+  color: white;
+  margin: 0;
+  padding-left: 8rem;
+}

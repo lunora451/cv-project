@@ -1,0 +1,15 @@
+.labelFile {
+  cursor: pointer;
+  color: black;
+  font-weight: bold;
+}
+.labelFile:hover {
+  color: #3d3d3d;
+}
+#photoProfil {
+  display: none;
+}
+
+.photoPicker {
+  text-align: center;
+}

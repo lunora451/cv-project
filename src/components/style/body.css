@@ -1,0 +1,8 @@
+.body {
+  flex: auto;
+  display: flex;
+  justify-content: stretch;
+  gap: 4rem;
+  padding: 30px;
+  background-color: rgb(202, 202, 202);
+}

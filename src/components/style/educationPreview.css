@@ -1,0 +1,25 @@
+.educationPreview {
+  display: flex;
+}
+
+.leftContentEducation {
+  display: flex;
+  width: 100px;
+}
+
+.rightContentEducation {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.rightContentEducation > div {
+  display: flex;
+}
+
+.universityEducation,
+.middleUnivEducation,
+.cityEducation {
+  font-weight: bold;
+}
